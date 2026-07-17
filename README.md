@@ -1,5 +1,14 @@
 <p align="center"><img src="banner.svg" width="100%" alt="Diego Tamayo - Software Engineer" /></p>
 
+Software developer focused on backend and desktop systems, with a particular interest in optimization and combinatorial algorithms.
+
+This space is mainly where I centralize my practice projects, experiments, and other personal interests — from service architecture with Java to self-taught learning in areas like data engineering and observability.
+
+**Technical focus:**
+- Logic and algorithms applied to problem solving
+- Backend development and REST services
+- Constant practice with new technologies and monitoring tools
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/diegotamayo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diegotamayo/" height="30" width="40" /></a>
