@@ -1,3 +1,5 @@
+<p align="center"><img src="banner.svg" width="100%" alt="animated low-poly banner" /></p>
+
 <h1 align="center">Hi 👋, I'm Diego Tamayo</h1>
 <h3 align="center">Software Engineer & Tech Enthusiast. Specialist in Optimization and Combinatorial algorithms. Solving complex problems through code</h3>
 
